@@ -6,6 +6,10 @@ EcoEnergetic is the company that provides exploratory data analysis (EDA) and vi
 
 -
 
+# ER Diagram
+
+<img width="1834" height="1084" alt="EcoEnergetic ERD" src="https://github.com/user-attachments/assets/9b4e1d24-8639-42cb-a932-5eed918ca74c" />
+
 # Instructions
 
 -
