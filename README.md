@@ -4,21 +4,21 @@ EcoEnergetic is the company that provides exploratory data analysis (EDA) and vi
 
 # Main Analytics
 
--
+Number of charging stations per district:
+<img width="1014" height="459" alt="{1919D332-F41B-4AEF-8240-709E07AE4199}" src="https://github.com/user-attachments/assets/42fc4bbf-b46f-479b-81fd-8dafd69f9a72" />
+
+Top 5 customer by total spending:
+<img width="796" height="205" alt="{451198DB-39E8-4B0B-B99E-C15157F9C413}" src="https://github.com/user-attachments/assets/349c4d02-ba41-437a-bdc4-5f2c52b6b862" />
 
 # ER Diagram
 
 <img width="1834" height="1084" alt="EcoEnergetic ERD" src="https://github.com/user-attachments/assets/9b4e1d24-8639-42cb-a932-5eed918ca74c" />
 
-# Instructions
-
--
-
 # Tools and Resources
 
 Python, PostgreSQL.
 
-# How to Run the Project
+# Instructions
 
 First you need to ensure that you have Python and PostgreSQL installed. If you don't have them, check their documentation on how to do it.
 
