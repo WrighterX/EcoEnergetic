@@ -4,11 +4,7 @@ EcoEnergetic is the company that provides exploratory data analysis (EDA) and vi
 
 # Main Analytics
 
-Number of charging stations per district:
-<img width="1014" height="459" alt="{1919D332-F41B-4AEF-8240-709E07AE4199}" src="https://github.com/user-attachments/assets/42fc4bbf-b46f-479b-81fd-8dafd69f9a72" />
-
-Top 5 customer by total spending:
-<img width="796" height="205" alt="{451198DB-39E8-4B0B-B99E-C15157F9C413}" src="https://github.com/user-attachments/assets/349c4d02-ba41-437a-bdc4-5f2c52b6b862" />
+It's empty and lonely over here...
 
 # ER Diagram
 
