@@ -87,7 +87,7 @@ Copy the CSV files (districts.csv, customers.csv, charging_stations.csv, chargin
 
 ## Running the Script
 
-To run `as1.py`, which connects to the "ecoenergetic" PostgreSQL database and executes three SQL queries with formatted output, follow these steps:
+To run both `as1.py` and `as2.py`, which connects to the "ecoenergetic" PostgreSQL database and executes three SQL queries with formatted output, follow these steps:
 
 1. **Install Dependencies**:
    Ensure Python is installed, then install required packages:
@@ -95,17 +95,13 @@ To run `as1.py`, which connects to the "ecoenergetic" PostgreSQL database and ex
    pip install psycopg2-binary tabulate
    ```
 2. **Update Database Credentials**:
-   Edit as1.py and update the db_params dictionary with your PostgreSQL connection details (host, port, username, password, and database name).
-   **Run the Script**:
+   Edit as1.py and as2.py and update the db_params dictionary with your PostgreSQL connection details (host, port, username, password, and database name).
 3. **Execute the script from the terminal**:
+   We will use as1.py as an example.
    ```
    python as1.py
    ```
 4. **Expected Output**:
-   The script will display three tables in the terminal:
-
-   High-income districts with >50 projected plugs.
-   Average battery capacity per income tier.
-   Number of charging stations per district.
+   The script will display data in the terminal and, depending on the script that you execute, will export the charts and Excel tables and show pyplot tab.
 
 Note: Ensure the PostgreSQL database "ecoenergetic" is running and accessible with the provided credentials.
